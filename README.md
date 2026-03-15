@@ -13,10 +13,10 @@
 
 ### 🧑‍💻 About Me
 
-- ☕ Java — мой основной язык, пишу на нём backend
-- 🌱 Работаю с Spring ecosystem, микросервисами и облачной инфраструктурой
-- ⚡ Люблю автоматизировать всё, что можно автоматизировать
-- 🧩 Решаю задачи на [LeetCode](https://leetcode.com/Aome-Itinose)
+- ☕ Java is my primary language, building backend systems with it
+- 🌱 Working with Spring ecosystem, microservices and cloud infrastructure
+- ⚡ Love automating everything that can be automated
+- 🧩 Solving problems on [LeetCode](https://leetcode.com/Aome-Itinose)
 
 ---
 
